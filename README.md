@@ -14,3 +14,7 @@
 [我的github主页](https://github.com/Gouson)
 
 ![图](https://bkimg.cdn.bcebos.com/pic/e1fe9925bc315c60049e02b582b1cb1349547764?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg)
+
+```C#
+printf('hello world')
+```
